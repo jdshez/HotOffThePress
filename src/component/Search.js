@@ -5,7 +5,7 @@ import NewsList from './NewsList';
  
 const Search = (exc) => {
     const { isAuthenticated } = useAuth0();
-    //let decide =  (exc || isAuthenticated) ?  true : false;
+    
    
         
      return ( 
