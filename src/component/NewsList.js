@@ -46,18 +46,6 @@ const NewsList = () => {
         </div>
         </div>
     )
-
-    {/*</div>return blogs.articles.length ? ( 
-        <div>
-            <ul>
-                { blogs.articles.map(blog => {
-                    <li key={blog.url}>{blog.title}</li>
-                })}
-            </ul>
-            
-        </div>) 
-        :
-        (<div>No results, try again</div>)*/}
 }
  
 export default NewsList;
