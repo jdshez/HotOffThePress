@@ -24,7 +24,7 @@ function App() {
             <Route path="/demo">
               <Demo />
             </Route>
-            <Route path="/story/:id">
+            <Route path="/fullstory/:id">
               <FullNewsStory />
             </Route>
           </Switch>

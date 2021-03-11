@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "0.1.0",
-  "homepage": "https://jdshez.github.io/HotOffThePress",
+  "homepage": "https://jdshez.github.io/HotOffThePress/",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.3.0",
