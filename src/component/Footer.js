@@ -12,7 +12,7 @@ const Footer = () => {
             <div class="row valign-wrapper row-1">
               <div class="col s12 l6">
                 <Link to="/" className="logo"><h5><img className="globe" src={globe}></img>Hot Off The Press</h5></Link>
-                <p class="">Here at Hot Off the Press we aim to provide our users with the latest news sourced from across the globe.</p>
+                <p class="">Here at Hot Off the Press we aim to provide our users with the latest news from around the globe.</p>
               </div>
               <div class="col s12 l4 offset-l2">
                 <h5 class="social-hd">Social</h5>
@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2021 Copyright HOTOFFTHEPRESS
+            © 2021 HOTOFFTHEPRESS
             
             </div>
           </div>

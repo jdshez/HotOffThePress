@@ -3,7 +3,7 @@ import React, { createContext, useState } from 'react';
 export const SearchContext = createContext();
 
 const SearchContextProvider = (props) => {
-    const [searchValue, setSearchValue] = useState('sport');
+    const [searchValue, setSearchValue] = useState('top-headlines');
     const changeSearch = (userInput) => {
         setSearchValue(userInput);
     }
