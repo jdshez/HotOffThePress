@@ -18,13 +18,13 @@ function App() {
       <Router>
         <Newnav />
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/HotOffThePress/">
               <Home />
             </Route>
-            <Route path="/demo">
+            <Route path="/HotOffThePress/demo">
               <Demo />
             </Route>
-            <Route path="/fullstory/:id">
+            <Route path="/HotOffThePress/fullstory/:id">
               <FullNewsStory />
             </Route>
           </Switch>

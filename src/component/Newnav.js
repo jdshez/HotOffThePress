@@ -15,18 +15,18 @@ const Newnav = () => {
     <div className="header z-depth-2">
       <div className="logo-nav">
         <div className="logo-container">
-          <Link to="/" className="logo">
+          <Link to="/HotOffThePress/" className="logo">
             <img className="globe" src={globe}></img>Hot Off The Press
           </Link>
         </div>
 
         <ul className={click ? "nav-options active" : "nav-options"}>
           <li className="option" onClick={closeMobileMenu}>
-           <Link to="/" className="option-txt" >Home</Link>
+           <Link to="/HotOffThePress/" className="option-txt" >Home</Link>
           </li>  
           <li className="option" onClick={closeMobileMenu}>
             {!isAuthenticated ? (    
-                <Link to="/demo" className="option-txt" >Demo</Link>
+                <Link to="/HotOffThePress/demo" className="option-txt" >Demo</Link>
             ) : <Profile />}
           </li>
           
@@ -38,7 +38,7 @@ const Newnav = () => {
       <ul className="desk-options">
         <li className="demo-pro-option">
         {!isAuthenticated ? (    
-                <Link to="/demo" className="option-txt" >Demo</Link>
+                <Link to="/HotOffThePress/demo" className="option-txt" >Demo</Link>
             ) : <Profile />} 
         </li>
         <li className="lgin-btn-ctr " onClick={closeMobileMenu}>
