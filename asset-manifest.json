@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HotOffThePress/static/css/main.e431ed57.chunk.css",
+    "main.js": "/HotOffThePress/static/js/main.074b018b.chunk.js",
+    "main.js.map": "/HotOffThePress/static/js/main.074b018b.chunk.js.map",
+    "runtime-main.js": "/HotOffThePress/static/js/runtime-main.4b4683e4.js",
+    "runtime-main.js.map": "/HotOffThePress/static/js/runtime-main.4b4683e4.js.map",
+    "static/js/2.9b534564.chunk.js": "/HotOffThePress/static/js/2.9b534564.chunk.js",
+    "static/js/2.9b534564.chunk.js.map": "/HotOffThePress/static/js/2.9b534564.chunk.js.map",
+    "index.html": "/HotOffThePress/index.html",
+    "static/css/main.e431ed57.chunk.css.map": "/HotOffThePress/static/css/main.e431ed57.chunk.css.map",
+    "static/js/2.9b534564.chunk.js.LICENSE.txt": "/HotOffThePress/static/js/2.9b534564.chunk.js.LICENSE.txt",
+    "static/media/b-1.3558c489.png": "/HotOffThePress/static/media/b-1.3558c489.png",
+    "static/media/b-2.59bc979b.png": "/HotOffThePress/static/media/b-2.59bc979b.png",
+    "static/media/earth-globe.f1f2e410.svg": "/HotOffThePress/static/media/earth-globe.f1f2e410.svg",
+    "static/media/facebook.8d51a556.png": "/HotOffThePress/static/media/facebook.8d51a556.png",
+    "static/media/gi-1.9c8232f9.png": "/HotOffThePress/static/media/gi-1.9c8232f9.png",
+    "static/media/gi-2.778be045.png": "/HotOffThePress/static/media/gi-2.778be045.png",
+    "static/media/instagram.ac32ec0a.png": "/HotOffThePress/static/media/instagram.ac32ec0a.png",
+    "static/media/news-comp.473869db.mp4": "/HotOffThePress/static/media/news-comp.473869db.mp4",
+    "static/media/stories-matter.5e5ce27c.jpg": "/HotOffThePress/static/media/stories-matter.5e5ce27c.jpg",
+    "static/media/twitter.67ad063d.png": "/HotOffThePress/static/media/twitter.67ad063d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b4683e4.js",
+    "static/js/2.9b534564.chunk.js",
+    "static/css/main.e431ed57.chunk.css",
+    "static/js/main.074b018b.chunk.js"
+  ]
+}
