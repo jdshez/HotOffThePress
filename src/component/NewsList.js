@@ -36,14 +36,14 @@ const NewsList = () => {
     
     return (
         <div className="row news-list-ctr">
-        { isLoading && <div>Loading...</div>}
+        { isLoading ? <div>Loading...</div> :
         <div className="col l11 offset-l1"> {/* new centralising cards at l screen */}
             { blogs?.articles?.length ? 
             ( blogs?.articles?.map((blog) => {
                 return ( <NewsItem key={blog.url} blog={blog} /> )})) : <div>No results, please try again</div> 
             }
-            
-        </div>
+          
+        </div>}
         </div>
     )
 }
