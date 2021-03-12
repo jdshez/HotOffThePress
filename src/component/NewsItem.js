@@ -15,7 +15,7 @@ const NewsItem = ({ blog }) => {
                 </div>
                 <div className="card-action">
                     <Link className="blog" to={{
-                        pathname: `/fullstory/${blog.publishedAt}`, 
+                        pathname: `/HotOffThePress/fullstory/${blog.publishedAt}`, 
                         state: { blog },
                         }} >Read more here...</Link>
                 </div>
