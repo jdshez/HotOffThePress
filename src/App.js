@@ -18,7 +18,7 @@ function App() {
       <Router>
         <Newnav />
           <Switch>
-            <Route exact path="/HotOffThePress/">
+            <Route exact path="/">
               <Home />
             </Route>
             <Route path="/demo">
