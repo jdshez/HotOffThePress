@@ -36,7 +36,7 @@ const LandingPage = () => {
                     </div>
                     <div className=" row valign-wrapper sales-row">
                         <div className="col s12 m6 center-align"><i className="icon-ctr large material-icons">language</i></div>
-                        <div className="col s12 m6 center-align"><h4 className="sales-point">Get the latest from across the globe</h4></div>
+                        <div className="col s12 m6 center-align"><h4 className="sales-point">Get the latest news from across the globe</h4></div>
                     </div>
                 </div>
                 <div className="section banner">
