@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HotOffThePress/static/css/main.e431ed57.chunk.css",
-    "main.js": "/HotOffThePress/static/js/main.63300b22.chunk.js",
-    "main.js.map": "/HotOffThePress/static/js/main.63300b22.chunk.js.map",
+    "main.css": "/HotOffThePress/static/css/main.7e8eeb53.chunk.css",
+    "main.js": "/HotOffThePress/static/js/main.f67b579b.chunk.js",
+    "main.js.map": "/HotOffThePress/static/js/main.f67b579b.chunk.js.map",
     "runtime-main.js": "/HotOffThePress/static/js/runtime-main.4b4683e4.js",
     "runtime-main.js.map": "/HotOffThePress/static/js/runtime-main.4b4683e4.js.map",
     "static/js/2.9b534564.chunk.js": "/HotOffThePress/static/js/2.9b534564.chunk.js",
     "static/js/2.9b534564.chunk.js.map": "/HotOffThePress/static/js/2.9b534564.chunk.js.map",
     "index.html": "/HotOffThePress/index.html",
-    "static/css/main.e431ed57.chunk.css.map": "/HotOffThePress/static/css/main.e431ed57.chunk.css.map",
+    "static/css/main.7e8eeb53.chunk.css.map": "/HotOffThePress/static/css/main.7e8eeb53.chunk.css.map",
     "static/js/2.9b534564.chunk.js.LICENSE.txt": "/HotOffThePress/static/js/2.9b534564.chunk.js.LICENSE.txt",
     "static/media/b-1.3558c489.png": "/HotOffThePress/static/media/b-1.3558c489.png",
     "static/media/b-2.59bc979b.png": "/HotOffThePress/static/media/b-2.59bc979b.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b4683e4.js",
     "static/js/2.9b534564.chunk.js",
-    "static/css/main.e431ed57.chunk.css",
-    "static/js/main.63300b22.chunk.js"
+    "static/css/main.7e8eeb53.chunk.css",
+    "static/js/main.f67b579b.chunk.js"
   ]
 }
