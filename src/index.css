@@ -282,7 +282,7 @@ footer .store-link img{
 
 .social-icons img {
   width: 30px;
-  
+  opacity: 0.25;
 }
 .social-icons li {
   margin-right: 10px !important;
@@ -510,4 +510,5 @@ blockquote{
 }
 .info-card-link {
   color:#ffab40;
+  word-wrap: break-word;
 }

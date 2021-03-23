@@ -29,6 +29,9 @@ const FullNewsStory = () => {
     {/*const{ story } = blog.location.state;
 const { id } = useParams();*/}
 
+    const time = story?.blog.publishedAt;
+    const timeSt = time?.replace(/T/, ' ');
+    const timeStamp = timeSt?.replace(/Z/, ' ');
     return ( 
         <div className="container">
             <div className="section">
@@ -50,7 +53,7 @@ const { id } = useParams();*/}
                             <h5>Details</h5>
                             <div class="divider"></div>
                             
-                            <p className="">Published by:  <span className="info-card-details">{story?.blog.source.name}</span> @ <span className="info-card-details">{story?.blog.publishedAt}</span></p>
+                            <p className="">Published by:  <span className="info-card-details">{story?.blog.source.name}</span> @ <span className="info-card-details">{timeStamp}</span></p>
                             {/*<p className="">{`${story?.blog.source.name} at ${story?.blog.publishedAt}`}</p>*/}
                             <p>URL:  <a className="info-card-link" target='#' href={story?.blog.url}> {`  ${story?.blog.url}`}</a></p>
                             <div class="divider"></div>
